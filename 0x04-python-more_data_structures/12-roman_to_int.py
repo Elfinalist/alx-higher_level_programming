@@ -35,4 +35,3 @@ def roman_to_int(roman_string):
         if (x + 1) == len(n):
             result += n[x]
     return result
-    
