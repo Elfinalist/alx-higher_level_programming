@@ -1,11 +1,9 @@
 #!/usr/bin/python3
-"""
-module documentation
-"""
+
+
+''' Empty class Square '''
 
 
 class Square:
-    """
-    Empty Square class
-    """
+    ''' Empty class Square '''
     pass
