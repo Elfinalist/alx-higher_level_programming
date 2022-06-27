@@ -1,5 +1,3 @@
 class Rectange:
     '''Form'''
     pass
-
-
